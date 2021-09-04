@@ -849,14 +849,14 @@ button[aria-label="Send a gift"] {
   width: fit-content;
   font-size: 14px;
   font-weight: 600;
-  font-family: "Lato";
+  font-family: "Sans";
   color: var(--darkplus-sec);
 }
 .wordmark-2iDDfm > svg {
   display: none;
 }
 .wordmark-2iDDfm:after {
-  content: "1Jden's Discord Client";
+  content: "1jden's Discord Client";
 }
 
 .channelName-2YrOjO,
